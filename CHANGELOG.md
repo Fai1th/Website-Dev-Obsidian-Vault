@@ -5,6 +5,7 @@
 - Simplified the README to native GitHub typography, a compact library index and short setup instructions.
 - Removed the decorative cover and diagrams.
 - Added a dark Buy Me a Coffee button and repository funding link for the maintainer's existing profile.
+- Styled the support badge with a coffee cup and heart, using the familiar compact format of repository donation buttons.
 
 ## 0.1.0 - 2026-11-02
 

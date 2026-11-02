@@ -39,6 +39,6 @@ See [source adoption](vault/04%20React/Source%20Adoption.md) and [attribution](T
 
 ## Support
 
-[![Buy me a coffee](docs/assets/support.svg)](https://buymeacoffee.com/fai1th)
+[![Support me on Buy Me a Coffee](docs/assets/support.svg)](https://buymeacoffee.com/fai1th)
 
 [Contributing](CONTRIBUTING.md) · [Changelog](CHANGELOG.md) · [MIT license](LICENSE)
