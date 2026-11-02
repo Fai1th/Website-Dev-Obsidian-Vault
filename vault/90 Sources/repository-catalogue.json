@@ -1,0 +1,222 @@
+[
+  {
+    "repo": "shadcn-ui/ui",
+    "url": "https://github.com/shadcn-ui/ui",
+    "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-02T07:02:07Z",
+    "homepage": "https://ui.shadcn.com"
+  },
+  {
+    "repo": "radix-ui/primitives",
+    "url": "https://github.com/radix-ui/primitives",
+    "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-14T21:52:47Z",
+    "homepage": "https://radix-ui.com/primitives"
+  },
+  {
+    "repo": "adobe/react-spectrum",
+    "url": "https://github.com/adobe/react-spectrum",
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+    "branch": "main",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-02T16:12:24Z",
+    "homepage": "https://react-spectrum.adobe.com"
+  },
+  {
+    "repo": "mui/base-ui",
+    "url": "https://github.com/mui/base-ui",
+    "description": "Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.",
+    "branch": "master",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-02T14:19:47Z",
+    "homepage": "https://base-ui.com"
+  },
+  {
+    "repo": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-04-13T16:12:31Z",
+    "homepage": "https://headlessui.com"
+  },
+  {
+    "repo": "mantinedev/mantine",
+    "url": "https://github.com/mantinedev/mantine",
+    "description": "A fully featured React components library",
+    "branch": "master",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-02T10:14:02Z",
+    "homepage": "https://mantine.dev"
+  },
+  {
+    "repo": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+    "branch": "master",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-02T13:53:07Z",
+    "homepage": "https://mui.com/material-ui/"
+  },
+  {
+    "repo": "TanStack/table",
+    "url": "https://github.com/TanStack/table",
+    "description": "\ud83e\udd16 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-21T14:02:33Z",
+    "homepage": "https://tanstack.com/table"
+  },
+  {
+    "repo": "TanStack/virtual",
+    "url": "https://github.com/TanStack/virtual",
+    "description": "\ud83e\udd16 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-01T11:59:19Z",
+    "homepage": "https://tanstack.com/virtual"
+  },
+  {
+    "repo": "recharts/recharts",
+    "url": "https://github.com/recharts/recharts",
+    "description": "Redefined chart library built with React and D3",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-02T15:36:44Z",
+    "homepage": "https://recharts.github.io"
+  },
+  {
+    "repo": "motiondivision/motion",
+    "url": "https://github.com/motiondivision/motion",
+    "description": "A modern animation library for React and JavaScript",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-02T13:49:35Z",
+    "homepage": "https://motion.dev"
+  },
+  {
+    "repo": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "description": "\ud83d\udccb React Hooks for form state management and validation (Web + React Native)",
+    "branch": "master",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-01T11:20:47Z",
+    "homepage": "https://react-hook-form.com"
+  },
+  {
+    "repo": "colinhacks/zod",
+    "url": "https://github.com/colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-10-30T20:36:35Z",
+    "homepage": "https://zod.dev"
+  },
+  {
+    "repo": "emilkowalski/vaul",
+    "url": "https://github.com/emilkowalski/vaul",
+    "description": "A drawer component for React.",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2025-10-03T19:25:32Z",
+    "homepage": "https://vaul.emilkowal.ski"
+  },
+  {
+    "repo": "emilkowalski/sonner",
+    "url": "https://github.com/emilkowalski/sonner",
+    "description": "An opinionated toast component for React.",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-08-10T11:13:03Z",
+    "homepage": "https://sonner.emilkowal.ski"
+  },
+  {
+    "repo": "react-dropzone/react-dropzone",
+    "url": "https://github.com/react-dropzone/react-dropzone",
+    "description": "Simple HTML5 drag-drop zone with React.js.",
+    "branch": "master",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-01T06:44:54Z",
+    "homepage": "https://react-dropzone.js.org/"
+  },
+  {
+    "repo": "magicuidesign/magicui",
+    "url": "https://github.com/magicuidesign/magicui",
+    "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-02T07:26:57Z",
+    "homepage": "https://magicui.design"
+  },
+  {
+    "repo": "ibelick/motion-primitives",
+    "url": "https://github.com/ibelick/motion-primitives",
+    "description": "UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-09-28T13:32:11Z",
+    "homepage": "https://motion-primitives.com"
+  },
+  {
+    "repo": "tremorlabs/tremor",
+    "url": "https://github.com/tremorlabs/tremor",
+    "description": "Copy & Paste React components to build modern web applications. ",
+    "branch": "main",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2025-10-10T13:08:24Z",
+    "homepage": "https://tremor.so"
+  },
+  {
+    "repo": "microsoft/fluentui",
+    "url": "https://github.com/microsoft/fluentui",
+    "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+    "branch": "master",
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-11-02T14:07:23Z",
+    "homepage": "https://react.fluentui.dev"
+  },
+  {
+    "repo": "carbon-design-system/carbon",
+    "url": "https://github.com/carbon-design-system/carbon",
+    "description": "A design system built by IBM",
+    "branch": "main",
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-11-02T16:04:47Z",
+    "homepage": "https://www.carbondesignsystem.com"
+  },
+  {
+    "repo": "primer/react",
+    "url": "https://github.com/primer/react",
+    "description": "An implementation of GitHub's Primer Design System using React",
+    "branch": "main",
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-11-02T15:49:19Z",
+    "homepage": "https://primer.style/product/getting-started/react/"
+  }
+]

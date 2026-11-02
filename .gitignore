@@ -1,0 +1,28 @@
+# Obsidian personal state and downloaded plugins
+**/.obsidian/workspace*.json
+**/.obsidian/cache/
+**/.obsidian/plugins/
+**/.obsidian/community-plugins.json
+**/.obsidian/appearance.json
+**/.trash/
+
+# Private additions and local environment
+vault/10 Projects/Private/
+vault/91 Attachments/Private/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+auth.json
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
+reports/
+dist/

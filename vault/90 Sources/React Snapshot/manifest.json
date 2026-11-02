@@ -1,0 +1,1117 @@
+{
+  "repository": "https://github.com/shadcn-ui/ui",
+  "commit": "4aaea19d9cff3e0908e12a8c1d504b8c5ec34610",
+  "retrieved": "2026-11-02",
+  "license": "MIT",
+  "verification": "Git blob integrity only; not integrated or runtime tested",
+  "files": [
+    {
+      "name": "ui/_registry.ts",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/_registry.ts",
+      "sha": "0514b247508e89fb98a43f36f934a6ac142645c8",
+      "size": 14274,
+      "imports": [
+        "@/components/ui/tooltip",
+        "shadcn/schema"
+      ],
+      "sha256": "624bb0617c40ed97328023f2fdaa8e971ef6a71d55a6cc008b3bfe3cca5ddfb8"
+    },
+    {
+      "name": "ui/accordion.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/accordion.tsx",
+      "sha": "b83c53e5e3502eb57bbba1cfc4c6fdaeba163339",
+      "size": 2038,
+      "imports": [
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "99de242681eb43121969db02bbb102aeeb1865ef52c7635672508a58c5429085"
+    },
+    {
+      "name": "ui/alert-dialog.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/alert-dialog.tsx",
+      "sha": "566c463a61b48c79ad544bfdd80434174107c9d5",
+      "size": 5440,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "b3dfb83e54ed8c82071df5289e5149628bf573458fc2da2d62f93f8380041b28"
+    },
+    {
+      "name": "ui/alert.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/alert.tsx",
+      "sha": "86310a66e80c0a370169b9fb4ed49af6bea954fb",
+      "size": 1604,
+      "imports": [
+        "class-variance-authority",
+        "cn",
+        "react"
+      ],
+      "sha256": "d03dcae5cdb63c381c1144ca9a0c49ba0e46466967d7deb94662034042acb034"
+    },
+    {
+      "name": "ui/aspect-ratio.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/aspect-ratio.tsx",
+      "sha": "57e38fa96f9c0cb767d7b8de0d6dbc171d1b921a",
+      "size": 274,
+      "imports": [
+        "radix-ui"
+      ],
+      "sha256": "b1c157886236782cb92d8fbcd4749532aaf6d8aabefd6e157ca40358f902f407"
+    },
+    {
+      "name": "ui/attachment.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/attachment.tsx",
+      "sha": "cf4750525db9ec3b3b5efbd4efcc39620ff0997e",
+      "size": 6003,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "class-variance-authority",
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "243feb168430d01288586d2460822e7789ffde8ebf2d0c436fa73c59c3d764e5"
+    },
+    {
+      "name": "ui/avatar.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/avatar.tsx",
+      "sha": "561f04be186f94896ec31e618fee6818c7fcc6c8",
+      "size": 2906,
+      "imports": [
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "0c5c48b8a1dff4fdc5ff9b6cb79cc9cd138682b7d86868068f571befe9675e88"
+    },
+    {
+      "name": "ui/badge.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/badge.tsx",
+      "sha": "1a94cc539326e26227271a0b3599be99e0e55fb6",
+      "size": 1766,
+      "imports": [
+        "class-variance-authority",
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "13a9380dfff853ee730c14a52df49f22aecd31f40f2998d7c1e7ec458b6e1650"
+    },
+    {
+      "name": "ui/breadcrumb.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/breadcrumb.tsx",
+      "sha": "12aa08af155d76bf3335b41ba9b92a593b6354d1",
+      "size": 2340,
+      "imports": [
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "c75fcd3d9e8470188bc0dd4b27a2b26fff3ad42b9c9c534a953dc090ae2cba33"
+    },
+    {
+      "name": "ui/bubble.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/bubble.tsx",
+      "sha": "da2c99035d566dd72536e61b922eb6ef5ffb3b4b",
+      "size": 4689,
+      "imports": [
+        "class-variance-authority",
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "df1e461e33e835b7f69296939c2325e8cd76941b5ec69375d80d639793c5c4e2"
+    },
+    {
+      "name": "ui/button-group.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/button-group.tsx",
+      "sha": "965285725a0a5d3af5d512537846455b808602fe",
+      "size": 2203,
+      "imports": [
+        "@/registry/new-york-v4/ui/separator",
+        "class-variance-authority",
+        "cn",
+        "radix-ui"
+      ],
+      "sha256": "a9ac862707ff8d78255f2696baf48f9a87d9e92e21eb476f8f9e9361313c1761"
+    },
+    {
+      "name": "ui/button.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/button.tsx",
+      "sha": "e3345d985d14c33e3cb9d8c45cf973807326c944",
+      "size": 2382,
+      "imports": [
+        "class-variance-authority",
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "79dd6f75f8136394442202d6b8b922fb269eaad0a5dba579397c9d5b41f893bb"
+    },
+    {
+      "name": "ui/calendar.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/calendar.tsx",
+      "sha": "215b068893d3fcabf8ec6ed8d14cce99438380b9",
+      "size": 7833,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "cn",
+        "lucide-react",
+        "react",
+        "react-day-picker"
+      ],
+      "sha256": "78ed2cc49dafc5bb5df7b1d4a325e5fc314237386747362e5f0761a2c539a934"
+    },
+    {
+      "name": "ui/card.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/card.tsx",
+      "sha": "6aebd4cf612dfa24d40ffdf357c6f6363e144d6a",
+      "size": 1977,
+      "imports": [
+        "cn",
+        "react"
+      ],
+      "sha256": "ef8305b12c3112dab42a4708b41b1ebcc042fa5ab4c20f039da8d45b09ed5059"
+    },
+    {
+      "name": "ui/carousel.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/carousel.tsx",
+      "sha": "25134a12616e729ae8c5a1a1f2eec062f8c94109",
+      "size": 5557,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "cn",
+        "embla-carousel-react",
+        "lucide-react",
+        "react"
+      ],
+      "sha256": "70ba30941a3adb448166ddcf8557c97734b7be09f6fd69512a6e444084365557"
+    },
+    {
+      "name": "ui/chart.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/chart.tsx",
+      "sha": "f4971bf60d74ac43b48d4c86982a6cacb56bde37",
+      "size": 10544,
+      "imports": [
+        "cn",
+        "react",
+        "recharts"
+      ],
+      "sha256": "35e2fa755465ef8eb8ff8b483d493204d452152e7a8863474b1a69f5d44484db"
+    },
+    {
+      "name": "ui/checkbox.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/checkbox.tsx",
+      "sha": "9aaa1baace43e42aba6ee7c3b04adb8ff7e99ea2",
+      "size": 1204,
+      "imports": [
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "ba0ac64064e2d8fa7299d53e9e84b9a4772fef8dd4cf6170c56d3030a1d69941"
+    },
+    {
+      "name": "ui/collapsible.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/collapsible.tsx",
+      "sha": "2f7a4e7fc64a8874373c1584646a63f28cd63c47",
+      "size": 795,
+      "imports": [
+        "radix-ui"
+      ],
+      "sha256": "c6598e5584f4258b5d9fefadbc5ad6a66888ad58729f4b634a0bb2d9c513188b"
+    },
+    {
+      "name": "ui/combobox.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/combobox.tsx",
+      "sha": "00e208e0398fd1cfe9394ac28f1d5ffeb90b10d3",
+      "size": 9169,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/input-group",
+        "@base-ui/react",
+        "cn",
+        "lucide-react",
+        "react"
+      ],
+      "sha256": "4f88734887ed6928ec7f3a78dfc814a48fb0e0c3056fd5825b72b59a61da0d8a"
+    },
+    {
+      "name": "ui/command.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/command.tsx",
+      "sha": "1605b2f525140db07b1d0f267721e22c185bd43c",
+      "size": 4819,
+      "imports": [
+        "@/registry/new-york-v4/ui/dialog",
+        "cmdk",
+        "cn",
+        "lucide-react",
+        "react"
+      ],
+      "sha256": "319e9264567dd46f04d705028bc345470663ca5919f31292c4ec43ea5ceb9336"
+    },
+    {
+      "name": "ui/context-menu.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/context-menu.tsx",
+      "sha": "188f89f5b45e4a24d45c1924a35e4d44abed9070",
+      "size": 8258,
+      "imports": [
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "bcde5df1ed9887bb050f0badabfb5f79912eb53bdc883dbe6c003d05914d99a4"
+    },
+    {
+      "name": "ui/dialog.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/dialog.tsx",
+      "sha": "ccadf4a85bf6398d52314b112600f796fc97db97",
+      "size": 4304,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "2ade6074e5fad0a4eb171ead44c43d3301a3c83d186d7236fb1fdbea80ee556b"
+    },
+    {
+      "name": "ui/direction.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/direction.tsx",
+      "sha": "22e165774bd595fbf41d0c45efef1cf996897983",
+      "size": 506,
+      "imports": [
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "84ae2ad658207f0e0f367978e5508cd8027cd00c29c41d3d13db21a708c3d1e6"
+    },
+    {
+      "name": "ui/drawer.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/drawer.tsx",
+      "sha": "4e416683964bdef2c52c5dcd597ab0cb8f4c015b",
+      "size": 4245,
+      "imports": [
+        "cn",
+        "react",
+        "vaul"
+      ],
+      "sha256": "63f04fe50a4bf29b56b0f5e2944c6efe980b895f589923659cc2e8ecc90b16c6"
+    },
+    {
+      "name": "ui/dropdown-menu.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/dropdown-menu.tsx",
+      "sha": "1f9742d6783223126a3b91e91b7a230243ddf23d",
+      "size": 8408,
+      "imports": [
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "d954efb735f13734751207ad22cb0cddd7f6ec53c59d16675d103dae08cb61fb"
+    },
+    {
+      "name": "ui/empty.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/empty.tsx",
+      "sha": "bfd524fb206070222851692210a62144f44c0611",
+      "size": 2386,
+      "imports": [
+        "class-variance-authority",
+        "cn"
+      ],
+      "sha256": "54f529ccf72c18c4b5abd5586a7cf1f2a4c8d207aac366029d66ed095cb2965d"
+    },
+    {
+      "name": "ui/field.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/field.tsx",
+      "sha": "9107ef025c35eb5b19c023688743e27e3825e70d",
+      "size": 6170,
+      "imports": [
+        "@/registry/new-york-v4/ui/label",
+        "@/registry/new-york-v4/ui/separator",
+        "class-variance-authority",
+        "cn",
+        "react"
+      ],
+      "sha256": "4a4d17fcb933513f637f9f7e2daf5d8348f7de086b29738337dec7e6dd1819a0"
+    },
+    {
+      "name": "ui/form.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/form.tsx",
+      "sha": "c1c77ca6098eef2a4dc6ac8be6ec2ad3100c7237",
+      "size": 3758,
+      "imports": [
+        "@/registry/new-york-v4/ui/label",
+        "cn",
+        "radix-ui",
+        "react",
+        "react-hook-form"
+      ],
+      "sha256": "dfa22e6614b807df60bbe7e40dd44ef74cf894b358f37c3ed356ebbeef9b4599"
+    },
+    {
+      "name": "ui/hover-card.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/hover-card.tsx",
+      "sha": "e1ffdb54ce6aeb5473648f219bb3bdd84e13f821",
+      "size": 1516,
+      "imports": [
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "73f59aa759656501ed615604ac3f2c04ba564acaea4529288fe3a487ad934953"
+    },
+    {
+      "name": "ui/input-group.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/input-group.tsx",
+      "sha": "a457945603c5e2fd52190135520fb67ccb6af388",
+      "size": 5086,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/input",
+        "@/registry/new-york-v4/ui/textarea",
+        "class-variance-authority",
+        "cn",
+        "react"
+      ],
+      "sha256": "e379899ac50d6cabc9d9eb1668f265176951c62b1fe83a6f23ee97fe8074d526"
+    },
+    {
+      "name": "ui/input-otp.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/input-otp.tsx",
+      "sha": "9a71a837dfe4805a21dfa9b3747e4d7296d4ec72",
+      "size": 2244,
+      "imports": [
+        "cn",
+        "input-otp",
+        "lucide-react",
+        "react"
+      ],
+      "sha256": "9f81898aeaabbb104cc22ffda551a333eb22608c543c4800412e2faaa802e311"
+    },
+    {
+      "name": "ui/input.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/input.tsx",
+      "sha": "ddb9b315e34245addded54b1848bb32c80c418cc",
+      "size": 952,
+      "imports": [
+        "cn",
+        "react"
+      ],
+      "sha256": "0c9457181f6ddc80969bcf854e92c362903a55b6e889fbef3fd85343ecc4af5b"
+    },
+    {
+      "name": "ui/item.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/item.tsx",
+      "sha": "22bc2521ad4fa762b0de948f3f9d53bc217f1069",
+      "size": 4487,
+      "imports": [
+        "@/registry/new-york-v4/ui/separator",
+        "class-variance-authority",
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "9ade8136f010284b7ec0142f52606616dd4b23798012e75a9fc6aac1fb2d792e"
+    },
+    {
+      "name": "ui/kbd.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/kbd.tsx",
+      "sha": "8089ad74a1d99d1f7393e7248f9777c4ff4df02b",
+      "size": 853,
+      "imports": [
+        "cn"
+      ],
+      "sha256": "c0c0ae6a7d1adb7749b9b34cab8f4d2f5caf333e819b64c2051e77f918d3661f"
+    },
+    {
+      "name": "ui/label.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/label.tsx",
+      "sha": "5aff7469c384001a3f1b49cc5cf8871b10f10386",
+      "size": 596,
+      "imports": [
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "344bde38b8531615dbf8e14af3895517c24d8ef6ce56ddeda7e2e6fe4b5d0c00"
+    },
+    {
+      "name": "ui/marker.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/marker.tsx",
+      "sha": "8bad2ea33f03a73a515b11a39e28fedc4e52ad8b",
+      "size": 1854,
+      "imports": [
+        "class-variance-authority",
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "036277635df058b8dc6e6dbe5cb738bc595e5035b885be42c60f904263725424"
+    },
+    {
+      "name": "ui/menubar.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/menubar.tsx",
+      "sha": "9143baeb5a07224bc4224241d51a00d3c539eb5f",
+      "size": 8379,
+      "imports": [
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "ca1a7f6775f9095183d63faadc6d4ed5ee2097139b4edeeefa60210379c47092"
+    },
+    {
+      "name": "ui/message-scroller.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/message-scroller.tsx",
+      "sha": "7b394cddd94f0b1108da44f949613481987436c7",
+      "size": 4023,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@shadcn/react/message-scroller",
+        "cn",
+        "lucide-react",
+        "react"
+      ],
+      "sha256": "9f7580a8c9a59d28c30da4974a7d17bfe3a710ee945fc72765e8721cd1a6669a"
+    },
+    {
+      "name": "ui/message.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/message.tsx",
+      "sha": "765bb9bfd4d9499d74b76a5331fb18d7c0dc4cf9",
+      "size": 2222,
+      "imports": [
+        "cn",
+        "react"
+      ],
+      "sha256": "64e9ae0f9d1e268b0ed7b738a53d374d273fe1e7e2dd7b35ad7417e50a9bbe6c"
+    },
+    {
+      "name": "ui/native-select.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/native-select.tsx",
+      "sha": "9ddba6b7fcddda52d9c4fc969cd910b929e7aec7",
+      "size": 1985,
+      "imports": [
+        "cn",
+        "lucide-react",
+        "react"
+      ],
+      "sha256": "4bdbce5575dce610fed747df4547a3d494713f4df8d28e09b3ccee62e4d72f93"
+    },
+    {
+      "name": "ui/navigation-menu.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/navigation-menu.tsx",
+      "sha": "ab18d0d2043e6aadd14135ccc854999c0bf6e70e",
+      "size": 6648,
+      "imports": [
+        "class-variance-authority",
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "fbe81d7c358df0d21e49b03174ef53be7d66226a3dce1a97ff3d4a260ed833a3"
+    },
+    {
+      "name": "ui/pagination.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/pagination.tsx",
+      "sha": "0e5980373355daf65200d8070ed99ffb839fbf8d",
+      "size": 2718,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "cn",
+        "lucide-react",
+        "react"
+      ],
+      "sha256": "224843c4f509e8b8c9848adefa43d1491846f0851138fa9b51cc6ba1319c5653"
+    },
+    {
+      "name": "ui/popover.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/popover.tsx",
+      "sha": "b62cf5d7c9d0688eb4d6a38de5e6a13bb7a9b317",
+      "size": 2347,
+      "imports": [
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "3f99d3add6c9fa4f03721e81297ee10e1310785ee1d9d9d4c82a114d84ab0757"
+    },
+    {
+      "name": "ui/progress.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/progress.tsx",
+      "sha": "ac48e2e5e25d507fcc68df5f95717b8a3df71867",
+      "size": 725,
+      "imports": [
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "e012e1f7e6e66d11229d1233eccf91954edcd9179b418ff1d114dc651b86fd35"
+    },
+    {
+      "name": "ui/radio-group.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/radio-group.tsx",
+      "sha": "2dc7ec59fa0af08a9274410db47b03cb78f629eb",
+      "size": 1450,
+      "imports": [
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "cfc4f99ee68be2fbbd70de3ffad82e1462d5e8e0bb0aecfd190a4f5115325862"
+    },
+    {
+      "name": "ui/resizable.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/resizable.tsx",
+      "sha": "709e5fd2f97527364ca1ebf1e8fe82b3f9ca8417",
+      "size": 1805,
+      "imports": [
+        "cn",
+        "lucide-react",
+        "react-resizable-panels"
+      ],
+      "sha256": "aaf3ea20e8060c75dd86e06fedfca053d49f81071123ba647b5699efcbc010ea"
+    },
+    {
+      "name": "ui/scroll-area.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/scroll-area.tsx",
+      "sha": "4542a3e26d68a524dc5e504156eb09dd3440a3f5",
+      "size": 1629,
+      "imports": [
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "8b73bb9be51300079c7f561bafbe43ee10f6f464cf39c8c1b25123cd4edb94dd"
+    },
+    {
+      "name": "ui/select.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/select.tsx",
+      "sha": "8058e266346ddf79b0b156a7c5d07e716d5792ee",
+      "size": 6343,
+      "imports": [
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "962830436bd0b7ee50e556f0747e277d6a86869ed27d167516346b15f26309d8"
+    },
+    {
+      "name": "ui/separator.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/separator.tsx",
+      "sha": "6a553b978c11cf82c93817b2d0dde1db0e555835",
+      "size": 684,
+      "imports": [
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "ad7d5403fe337160e41dbf04147896e448ae3a747b8d06660d627d74d60021bc"
+    },
+    {
+      "name": "ui/sheet.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/sheet.tsx",
+      "sha": "9f7ae5fed9763e9ddbe38692fbf5b3f67224b731",
+      "size": 4178,
+      "imports": [
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "ea473d38a26a9b0b879e5a13139899ad45e9782e896b3fa205c7763a6c506876"
+    },
+    {
+      "name": "ui/sidebar.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/sidebar.tsx",
+      "sha": "31cafe4cb8aa5127e050d883afb395b626565d2c",
+      "size": 21713,
+      "imports": [
+        "@/registry/new-york-v4/hooks/use-mobile",
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/input",
+        "@/registry/new-york-v4/ui/separator",
+        "@/registry/new-york-v4/ui/sheet",
+        "@/registry/new-york-v4/ui/skeleton",
+        "@/registry/new-york-v4/ui/tooltip",
+        "class-variance-authority",
+        "cn",
+        "lucide-react",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "2ba1a9b9422f4172373f4cd0587b675d2331a41f4fa68f65dab2b23ca98fd9d2"
+    },
+    {
+      "name": "ui/skeleton.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/skeleton.tsx",
+      "sha": "a1ceb0545be73aa39a336271ecb69ed6aa69a64d",
+      "size": 267,
+      "imports": [
+        "cn"
+      ],
+      "sha256": "f51ce0fcd31e5c31437382e80ea0af94b4fc3d64221d27091d36824546780a43"
+    },
+    {
+      "name": "ui/slider.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/slider.tsx",
+      "sha": "f1a421ef3f90344dac8b53d92e58ba7d2ae0cd13",
+      "size": 1981,
+      "imports": [
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "6a531f6182de6efec2c25d30a7626b66cbf11cf52d505e47f907124934f7188e"
+    },
+    {
+      "name": "ui/sonner.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/sonner.tsx",
+      "sha": "9b20afe2e10fd9b94d1abc1ae732054b2fb9821c",
+      "size": 1034,
+      "imports": [
+        "lucide-react",
+        "next-themes",
+        "sonner"
+      ],
+      "sha256": "13ccc9b0fe4248e622f83a1d3b2f0566b72b5e04162d7d0c8db8945ecc71b55f"
+    },
+    {
+      "name": "ui/spinner.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/spinner.tsx",
+      "sha": "3e0fd0a1d046107cb97bb3028561485c08be65c2",
+      "size": 321,
+      "imports": [
+        "cn",
+        "lucide-react"
+      ],
+      "sha256": "5d040fc49cb54c0296070644053b5a8840ddbfca89a430546bf308df3fffad65"
+    },
+    {
+      "name": "ui/switch.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/switch.tsx",
+      "sha": "c45932afe4e484c900aa916e81d0e0d67137bedc",
+      "size": 1398,
+      "imports": [
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "743676f33f823ffa8008bbd5eb94cb68e227599447d60e132a202291a395f8e4"
+    },
+    {
+      "name": "ui/table.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/table.tsx",
+      "sha": "47ce10b2a4347c9dcdc96b04c8c855d42edbb2a7",
+      "size": 2468,
+      "imports": [
+        "cn",
+        "react"
+      ],
+      "sha256": "bd1a9fc83a5a2149e504038e274bb7e5a0351af59f6896df52ac4d5b439695ac"
+    },
+    {
+      "name": "ui/tabs.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/tabs.tsx",
+      "sha": "6e174747a509f8a906ce9cfb27bc2c7603f2b6b5",
+      "size": 3772,
+      "imports": [
+        "class-variance-authority",
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "e1df6e2f95ece373ca909c1d54b8ba8cf4c47dd425c1784bbb9a01c38dd0936b"
+    },
+    {
+      "name": "ui/textarea.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/textarea.tsx",
+      "sha": "bf23f6c255978311c3069f5da3fa10c1d896e8cf",
+      "size": 749,
+      "imports": [
+        "cn",
+        "react"
+      ],
+      "sha256": "5cafcfeeee29534f449387a16b585f5923d2faab1a0cdc50a874416b175f59ce"
+    },
+    {
+      "name": "ui/toggle-group.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/toggle-group.tsx",
+      "sha": "a227abc4c6d630498bed98bd83d10c7fbe3360fc",
+      "size": 2309,
+      "imports": [
+        "@/registry/new-york-v4/ui/toggle",
+        "class-variance-authority",
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "45186473eaa30a966adf16e2b0aa0d16522425fda0658e2c85b8dcb1b62956ef"
+    },
+    {
+      "name": "ui/toggle.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/toggle.tsx",
+      "sha": "0291f01cff0429bbf2fb3575a15867556cc88a89",
+      "size": 1555,
+      "imports": [
+        "class-variance-authority",
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "28ae7d72730890a3ba6c668fd511c63a358ad26534c2c25d5922748d47e1fa99"
+    },
+    {
+      "name": "ui/tooltip.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/ui/tooltip.tsx",
+      "sha": "c8c47cb146e6167c68f74f8a2f2f0c7c2d06ec72",
+      "size": 1820,
+      "imports": [
+        "cn",
+        "radix-ui",
+        "react"
+      ],
+      "sha256": "611e4305879b2773eafe76bf3c5caa69d8e47367fd97887a71634a27828f4433"
+    },
+    {
+      "name": "hooks/_registry.ts",
+      "upstream_path": "apps/v4/registry/new-york-v4/hooks/_registry.ts",
+      "sha": "5957a81599fd14da0e2d5772981329fd481fd955",
+      "size": 256,
+      "imports": [
+        "shadcn/schema"
+      ],
+      "sha256": "481693a39ff1a598b7cc32d6c382a1a10a98c33236133f530d001466ff6b40d3"
+    },
+    {
+      "name": "hooks/use-mobile.ts",
+      "upstream_path": "apps/v4/registry/new-york-v4/hooks/use-mobile.ts",
+      "sha": "2b0fe1dfef3b17850bbac040665f514a8ffd0f15",
+      "size": 565,
+      "imports": [
+        "react"
+      ],
+      "sha256": "ad0936f84f1df79d3697bfbff9c18f8ad58431c1cbaf2359c6a853b0fcc9f28b"
+    },
+    {
+      "name": "lib/_registry.ts",
+      "upstream_path": "apps/v4/registry/new-york-v4/lib/_registry.ts",
+      "sha": "42444658f85b103da8ae9861b992c6e9fa286739",
+      "size": 266,
+      "imports": [
+        "shadcn/schema"
+      ],
+      "sha256": "822366b3f9fcda9c794331db6b81208a65c192e74d9b1a029135c4af96007041"
+    },
+    {
+      "name": "lib/utils.ts",
+      "upstream_path": "apps/v4/registry/new-york-v4/lib/utils.ts",
+      "sha": "f815ded4d7865413255682a8b1f8f95beb620d0a",
+      "size": 24,
+      "imports": [
+        "cn"
+      ],
+      "sha256": "14300d758170c270c75b057f38fedb3793a5920ea872f0477e29fb131185e8a7"
+    },
+    {
+      "name": "examples/accordion-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/accordion-demo.tsx",
+      "sha": "5ced7f9b94d26c63bb47b4496cbb4d97fba2c6bb",
+      "size": 2223,
+      "imports": [
+        "@/registry/new-york-v4/ui/accordion"
+      ],
+      "sha256": "adb155525e248ea3803682e26d53f797106cdd531e988cf1f29de3e100b81dc0"
+    },
+    {
+      "name": "examples/alert-dialog-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/alert-dialog-demo.tsx",
+      "sha": "86ebbfc3846e5b41aab715a27809712262384c97",
+      "size": 1082,
+      "imports": [
+        "@/registry/new-york-v4/ui/alert-dialog",
+        "@/registry/new-york-v4/ui/button"
+      ],
+      "sha256": "0df2feb3b43b6ec1173a801211b005db551150157eb0af0fa58a8132cc64c8ff"
+    },
+    {
+      "name": "examples/button-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/button-demo.tsx",
+      "sha": "ed864ccd3ad6a483c6cfa3e182488ad0fbe1d465",
+      "size": 391,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "lucide-react"
+      ],
+      "sha256": "79b686fd86aae77ff1307ebd9ce843832331d6ce85ba49af82113acfc9a377ac"
+    },
+    {
+      "name": "examples/calendar-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/calendar-demo.tsx",
+      "sha": "1995831ffa0ec8d6206654de72b7c4af6eeede96",
+      "size": 404,
+      "imports": [
+        "@/registry/new-york-v4/ui/calendar",
+        "react"
+      ],
+      "sha256": "2b90c835fb12981f6becd8492b1a546943c1c0d0bf638bea3bb7c062355c1313"
+    },
+    {
+      "name": "examples/card-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/card-demo.tsx",
+      "sha": "9e50eb1d7f0f04b678f0f00789833491dd0fd1e5",
+      "size": 1851,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/card",
+        "@/registry/new-york-v4/ui/input",
+        "@/registry/new-york-v4/ui/label"
+      ],
+      "sha256": "5e480048442a8a5bab54ddde1333c5ead1c9d5140543ece42203f0dbc542b58e"
+    },
+    {
+      "name": "examples/checkbox-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/checkbox-demo.tsx",
+      "sha": "4cdae4210dc738b05778f17e4b72e2063e6ffcf3",
+      "size": 1813,
+      "imports": [
+        "@/registry/new-york-v4/ui/checkbox",
+        "@/registry/new-york-v4/ui/label"
+      ],
+      "sha256": "963c8036e466a3652bb73b713be3d2475a5621e5e7d75e744f4cf251adb01e6d"
+    },
+    {
+      "name": "examples/combobox-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/combobox-demo.tsx",
+      "sha": "e84a7178cc3f4b7bf27742f6d2a29a57788c870e",
+      "size": 2347,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/command",
+        "@/registry/new-york-v4/ui/popover",
+        "cn",
+        "lucide-react",
+        "react"
+      ],
+      "sha256": "587117e09dca105e5799a57883a2938743be2d82268658a081aa1a8629de34d8"
+    },
+    {
+      "name": "examples/command-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/command-demo.tsx",
+      "sha": "068e07886e8c010ccff5cf1b39c1afbaae4751fd",
+      "size": 1564,
+      "imports": [
+        "@/registry/new-york-v4/ui/command",
+        "lucide-react"
+      ],
+      "sha256": "da6068f90f9d8fd428acac6235b84b23287b7a4a9d563cc4516dcd264590e19b"
+    },
+    {
+      "name": "examples/dialog-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/dialog-demo.tsx",
+      "sha": "8ce938334c80993d5f38836b6005796369a79e30",
+      "size": 1583,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/dialog",
+        "@/registry/new-york-v4/ui/input",
+        "@/registry/new-york-v4/ui/label"
+      ],
+      "sha256": "1a4e0f495dc3a3d00f6ab0a4e677aedc24f80a4a4f3c267e472eedc99f9c1828"
+    },
+    {
+      "name": "examples/drawer-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/drawer-demo.tsx",
+      "sha": "cc54734149c4729b7bff352f391d1d3b24912f89",
+      "size": 3252,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/drawer",
+        "lucide-react",
+        "react",
+        "recharts"
+      ],
+      "sha256": "76b49ff4b558d5014009219285bb7b907152d2fd08613d79553bcce0c6bb3699"
+    },
+    {
+      "name": "examples/dropdown-menu-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/dropdown-menu-demo.tsx",
+      "sha": "35075e6527b7e6cdb4ac4a176b5513a0effd501f",
+      "size": 2532,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/dropdown-menu"
+      ],
+      "sha256": "246125468036387ef225fb68bc3976e4a28126a5e1e68af7dd97ba08fb5568ca"
+    },
+    {
+      "name": "examples/empty-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/empty-demo.tsx",
+      "sha": "1955127b7cdae6abfb472cde4c0e10705d8b35f1",
+      "size": 1128,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/empty",
+        "@tabler/icons-react",
+        "lucide-react"
+      ],
+      "sha256": "256fafa66022abe16cbd45c715da901d8002da003898e8dd0fe781e101360d70"
+    },
+    {
+      "name": "examples/field-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/field-demo.tsx",
+      "sha": "01c4f6f47343f2c3611522a1c3dce0ae401327ad",
+      "size": 5519,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/checkbox",
+        "@/registry/new-york-v4/ui/field",
+        "@/registry/new-york-v4/ui/input",
+        "@/registry/new-york-v4/ui/select",
+        "@/registry/new-york-v4/ui/textarea"
+      ],
+      "sha256": "e0e480c2beb9223b112b8e04f37e3ad83283e257cdd24e6f3a00e5f9542c4ba2"
+    },
+    {
+      "name": "examples/input-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/input-demo.tsx",
+      "sha": "4fbe0cc97de7300a46fa126023dfadcf64bf7c3c",
+      "size": 149,
+      "imports": [
+        "@/registry/new-york-v4/ui/input"
+      ],
+      "sha256": "2a6430567a36119562ef31a7764aef541005d0e84af3e4ebe0f440972be2afce"
+    },
+    {
+      "name": "examples/navigation-menu-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/navigation-menu-demo.tsx",
+      "sha": "9a6c1d78661c8667e1f6c44230945d8ea5e23ba1",
+      "size": 7890,
+      "imports": [
+        "@/registry/new-york-v4/hooks/use-mobile",
+        "@/registry/new-york-v4/ui/navigation-menu",
+        "lucide-react",
+        "next/link",
+        "react"
+      ],
+      "sha256": "17464911daa88a84345fbc6c1485d0f346b5417f0bb3370f623ee435fb50265d"
+    },
+    {
+      "name": "examples/pagination-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/pagination-demo.tsx",
+      "sha": "e746ad4e00824d4e8b2dcec4338b315e99eaf59b",
+      "size": 951,
+      "imports": [
+        "@/registry/new-york-v4/ui/pagination"
+      ],
+      "sha256": "d1d892b87ce2650ffff81660a087942df0cf119eac87260e69f4f671075c7746"
+    },
+    {
+      "name": "examples/progress-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/progress-demo.tsx",
+      "sha": "0792c2c1cee8ff021cafb2a68a41844928b882a9",
+      "size": 395,
+      "imports": [
+        "@/registry/new-york-v4/ui/progress",
+        "react"
+      ],
+      "sha256": "0c712ef88df3e3c953c8e4ef42bd2ebbc6736605484031b97334501ac130529c"
+    },
+    {
+      "name": "examples/select-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/select-demo.tsx",
+      "sha": "4c5b1e840ab57e284b38f75558669ae554094a4b",
+      "size": 819,
+      "imports": [
+        "@/registry/new-york-v4/ui/select",
+        "react"
+      ],
+      "sha256": "b9539f4e912127b34b1b49b73e40604db6cc878a4f76fffc9ded1af34d8df21b"
+    },
+    {
+      "name": "examples/sheet-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/sheet-demo.tsx",
+      "sha": "f78da94f0b3748018b79ec77de4345ee7599c876",
+      "size": 1459,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/input",
+        "@/registry/new-york-v4/ui/label",
+        "@/registry/new-york-v4/ui/sheet"
+      ],
+      "sha256": "eee993aff55b31bc5eb07af188910614ea2ba6e4d43c98557bf1ed9f6d0f3509"
+    },
+    {
+      "name": "examples/skeleton-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/skeleton-demo.tsx",
+      "sha": "d55e6bae1797605b92705d45b4d2fa4f55c32ca7",
+      "size": 377,
+      "imports": [
+        "@/registry/new-york-v4/ui/skeleton"
+      ],
+      "sha256": "dad425fea6f07d573d1b214ea683e7e9aee52795272123688fceca95c163f874"
+    },
+    {
+      "name": "examples/sonner-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/sonner-demo.tsx",
+      "sha": "50685f353684e0d054b0a887725cbbc942326b2d",
+      "size": 487,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "sonner"
+      ],
+      "sha256": "828727175d23414ee680032e7131701b81772e3f688965e6f47ebe80146880b8"
+    },
+    {
+      "name": "examples/table-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/table-demo.tsx",
+      "sha": "36a752eebabc46e5994cb8b7b52c9ba349ba9367",
+      "size": 2086,
+      "imports": [
+        "@/registry/new-york-v4/ui/table"
+      ],
+      "sha256": "57fc6f2e491588b55d6ecd5f80f032919280f92dc488b573406aa8e36613292c"
+    },
+    {
+      "name": "examples/tabs-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/tabs-demo.tsx",
+      "sha": "6a1a413e48a6f4c78d1aabf9db54c634c72f7bfb",
+      "size": 2659,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/card",
+        "@/registry/new-york-v4/ui/input",
+        "@/registry/new-york-v4/ui/label",
+        "@/registry/new-york-v4/ui/tabs",
+        "lucide-react"
+      ],
+      "sha256": "167a1763653b162e155cfe73caf2d2c1c5b4f7b8dc190aa1d9c7504d78598c3d"
+    },
+    {
+      "name": "examples/tooltip-demo.tsx",
+      "upstream_path": "apps/v4/registry/new-york-v4/examples/tooltip-demo.tsx",
+      "sha": "8f55c339ecc71ad23e1aa2ea61bc263da7183fe7",
+      "size": 425,
+      "imports": [
+        "@/registry/new-york-v4/ui/button",
+        "@/registry/new-york-v4/ui/tooltip"
+      ],
+      "sha256": "3552415cad300b20f9132aaf3f4dca1e4c1d67f71b3f2947318392507149a5d9"
+    }
+  ]
+}
