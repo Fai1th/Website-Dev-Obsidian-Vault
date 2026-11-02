@@ -6,6 +6,7 @@
 - Removed the decorative cover and diagrams.
 - Added a dark Buy Me a Coffee button and repository funding link for the maintainer's existing profile.
 - Styled the support badge with a coffee cup and heart, using the familiar compact format of repository donation buttons.
+- Replaced the generic cup with the Buy Me a Coffee logo and a restrained yellow accent; retained icon attribution and CC0 terms.
 
 ## 0.1.0 - 2026-11-02
 

@@ -15,6 +15,10 @@ Original guides, templates, validator and artwork are provided under the root MI
 
 Code remains unmodified. Library component cards are original curation. Git blob and SHA-256 hashes verify source integrity, not runtime behavior, dependency safety or current API compatibility. If redistributing only part of the code, retain its applicable copyright and permission notice.
 
+## Buy Me a Coffee logo
+
+The support badge uses the Buy Me a Coffee icon from [Simple Icons](https://github.com/simple-icons/simple-icons/blob/develop/icons/buymeacoffee.svg), scaled and coloured yellow. The icon artwork is provided under [CC0 1.0 Universal](docs/licenses/simple-icons-CC0.txt). The original project MIT license does not replace these terms or grant trademark rights. The badge links to the maintainer's Buy Me a Coffee profile and does not imply platform endorsement.
+
 ## Referenced resources
 
 Other React repositories are linked, not vendored. Their licenses and add-on terms must be checked before adoption. Primary technical references include OWASP, W3C and web.dev, credited in the notes. Inspiration references identify creators and inspection limits; no third-party social images are bundled.
