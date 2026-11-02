@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1 - 2026-11-02
+
+- Simplified the README to native GitHub typography, a compact library index and short setup instructions.
+- Removed the decorative cover and diagrams.
+- Added a dark Buy Me a Coffee button and repository funding link for the maintainer's existing profile.
+
 ## 0.1.0 - 2026-11-02
 
 - Public, portable Obsidian vault with genre recipes, professional rules and selective agent retrieval.
